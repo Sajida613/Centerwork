@@ -5,7 +5,7 @@ menu = {
     'Mutton Biryani':253,
     'Chicken Family Pack':552,
     'Mutton Family Pack':576,
-    'Special Chiken Biryani':337,
+    'Special Mutton Biryani':337,
     'Special Chicken Biryani' :819,
     'Veg Biryani' :154,
     'Egg Biryani' :154,
@@ -35,7 +35,11 @@ menu = {
 
 #greet
 print("Welcome to SAJIDA Restaurant")
-print("pizza: Rs40\nburger: Rs150\nsalad: Rs80\ncofee: Rs100\npasta: Rs90")
+print("Chicken Biryani: Rs210\nMutton Biryani: Rs253\nChicken Family Pack: Rs552\nMutton Family Pack:Rs576\nSpecial Mutton Biryani:Rs337")
+print("Specail Chicken Biryani:Rs819\nVeg Biryani: Rs154\nEgg Biryani :Rs154\nVeg.Famliy Pack:Rs383\nVeg.Supreme Pack :Rs574\nChilli Chicken :264")
+print("Chicken 65 :Rs264\nPapper Chicken :196\nVeg.macnchurain :Rs189\nChicken Tikkka Kabab : Rs243\nTandoori Tika [Half] :243")
+print("Tandoori Chicken [Full]: Rs379\nChicken Reshmi Kebab: Rs243\nButter Chicken Boneless: Rs246\nNizamli Pakistani: Rs171")
+print("Tandoori Roti: Rs40\nRumali Roti:Rs40\nKashmirTea: Rs200\nCoffe: Rs100")
 
 order_total = 0
 
