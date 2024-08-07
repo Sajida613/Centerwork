@@ -1,10 +1,36 @@
 #define the menu of resaurant
 menu = {
-    'pizza':40,
-    'burger':150,
-    'salad':80,
-    'cofee':100,
-    'pasta':90,
+    #BIRYANIS
+    'Chicken Biryani':210,
+    'Mutton Biryani':253,
+    'Chicken Family Pack':552,
+    'Mutton Family Pack':576,
+    'Special Chiken Biryani':337,
+    'Special Chicken Biryani' :819,
+    'Veg Biryani' :154,
+    'Egg Biryani' :154,
+    'Veg.Family Pack' :383,
+    'Veg.Supreme Pack' :574,
+    #STARTERS
+    'Chilli Chicken' :264,
+    'Chicken 65' :264,
+    'Pepper Chiicken' :196,
+    'Veg.Macnchurain' :189,
+    #KEBABS
+    'Chicken Tikka Kebab' :243,
+    'Tandoori Chicken [Half]' :243,
+    'Tandoori Chicken [Full]' :379,
+    'Chicken Reshmi Kebab' :243,
+    #CURRIES
+    'Butter Chicken Boneless' :246,
+    'Nizami Pakistani' :171,
+    #BREADS
+    'Tandoori Roti' :40,
+    'Rumali Roti' :40,
+    #DRINKS
+    'Kashmri Tea' :200,
+    'Cofee' :100,
+
 }
 
 #greet
