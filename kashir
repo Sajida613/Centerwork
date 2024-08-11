@@ -1,0 +1,72 @@
+# Hotal menu program
+
+print("Welome our KASHIR Hotal")
+print("1.brakfast menu")
+print("2.lunch  menu")
+print("3.Dinner menu")
+print("3.beverages menu")
+print("4.Exit")
+
+while True:
+ choice=input("Enter your choice:" )
+
+ if choice=="1":
+   print("breakfast menu:")
+   print("1.Eggs benedict-$10")  
+   print("2.panCakes-$8")
+   print("3.Omelette-$9") 
+   breakfast_choice=input("Enter your choice: ")
+
+   if breakfast_choice=="1":
+      print("Eggs benedict -$10 ")
+   elif breakfast_choice=="2":
+      print("pan Cakes -$8")
+   elif breakfast_choice=="3":
+      print("Omelette -$9")      
+
+   elif choice=="2":
+    print("lunch menu:")
+    print("1.Grilled chicken-$15")  
+    print("2.Fish and Chips-$12")
+    print("3.Vegge Burger-$18") 
+    lunch_choice=input("Enter your choice: ")
+    if lunch_choice=="1":
+     print("Grilled chicken-$15 ")
+    elif lunch_choice=="2":
+     print(" Fish and Chips-$12")
+    elif lunch_choice=="3":
+     print("Vegge Burger-$18")  
+
+    elif choice=="3":
+     print("Dinner menu")
+     print("1.Steak-$15")  
+     print("2.Shrimp -$12")
+     print("3.Vegeterain lasagna -$18") 
+     Dinner_choice=input("Enter your choice: ")
+
+    if Dinner_choice=="1":
+     print("1.Steak-$15 ")
+    elif Dinner_choice=="2":
+     print("2.Shrimp-$12")
+    elif Dinner_choice=="3":
+     print("3.Vegeterain lasagna -$18") 
+                  
+    elif choice=="4":
+     print("Beverages menu")
+     print("1.soda-$3")  
+     print("2.juice-$4")
+     print("3.coffe-$2") 
+     beverage_choice=input("Enter your choice: ")
+
+    if  beverage_choice=="1":
+      print("1.soda-$3")
+    elif  beverage_choice=="2":
+     print("2.jiuce.-$4")
+    elif beverage_choice =="3":
+     print("3.coffe-$2") 
+    elif choice=="5":
+     print("Thank you for visiting our hotal!")     
+     break
+    else:
+     print("invald choice. plz try again!")             
+
