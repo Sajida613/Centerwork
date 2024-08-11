@@ -37,9 +37,7 @@ menu = {
     print("Welcome to SAJIDA Restaurant")
     print("Chicken Biryani: Rs210\nMutton Biryani: Rs253")
     print("Chicken Family Pack: Rs552\nMutton Family Pack:Rs576\nSpecial Mutton Biryani:Rs337")
-    print("Specail Chicken Biryani:Rs819\nVeg Biryani: Rs154\nEgg Biryani :Rs154\nVeg.Famliy Pack:Rs383\nVeg.Supreme Pack :Rs574")
-    print("Chilli Chicken :264\n"Chicken 65 :Rs264\nPapper Chicken :196\nVeg.macnchurain :Rs189\nChicken Tikkka Kabab : Rs243\nTandoori Tika [Half] :243\n\nTandoori Chicken [Full]: Rs379")
-    print("Chicken Reshmi Kebab: Rs243\nButter Chicken Boneless: Rs246\nNizamli Pakistani: Rs171\n\nTandoori Roti: Rs40\nRumali Roti:Rs40\nKashmirTea: Rs200\nCoffe: Rs100")
+    print("Specail Chicken Biryani:Rs819\nVeg Biryani: Rs154\nEgg Biryani :Rs154\nVeg.Famliy Pack:Rs383")
 
 order_total = 0
 
